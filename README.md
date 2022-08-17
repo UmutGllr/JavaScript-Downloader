@@ -1,2 +1,4 @@
 # JavaScript-Downloader
-JS Jscript - Download File From Url Then Run It
+JS Jscript - This script downloads the file from the internet and execute it.
+
+
